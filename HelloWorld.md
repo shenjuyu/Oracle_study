@@ -69,9 +69,19 @@ Thank `You` . Please `Call` Me `Coder`
 
 网上有很多README插入图片的教程了，经[此博主](https://blog.csdn.net/ljc_563812704/article/details/53464039)多次测试呢，发现可以使用的最简单，最基本的语法是
 
+\![](http://www.baidu.com/img/bdlogo.gif)
+
 ![](http://www.baidu.com/img/bdlogo.gif)
 
+在方括号里可以加入一些 标识性的信息，比如
 
+\![baidu](http://www.baidu.com/img/bdlogo.gif)
+![baidu](http://www.baidu.com/img/bdlogo.gif)
+
+这个方括号里的baidu并不会对图像显示造成任何改动，如果你想达到鼠标悬停显示提示信息，那么可以仿照前面介绍的文本中的方法，就是这样
+
+
+![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 
 
 
