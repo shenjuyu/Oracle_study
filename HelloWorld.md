@@ -94,7 +94,7 @@ GitHub仓库里的图片
 
 这样一目了然了吧。比如：
 
-\!\[]\(https://github.com/shenjunyu/Oracle_study/master/images/Branch_分支.png)
+\!\[]\(https://github.com/shenjunyu/Oracle_study/raw/master/images/Branch_分支.png)
 
-![](https://github.com/shenjunyu/Oracle_study/master/images/2019-08-22_191557.png)
+![](https://github.com/shenjunyu/Oracle_study/raw/master/images/2019-08-22_191557.png)
 
