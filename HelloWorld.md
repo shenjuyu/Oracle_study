@@ -40,7 +40,13 @@ Thank `You` . Please `Call` Me `Coder`
 
 [我的博客地址](https://github.com/shenjuyu/Oracle_study.git "悬停显示")
 
+插入符号 圆点符
 
+编辑的时候使用的是星号 *
+
+*西瓜
+*饺子
+*面包
 
 
 
