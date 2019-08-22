@@ -106,10 +106,30 @@ GitHub仓库里的图片
 \[\!\[baidu]]\(http://baidu.com)
 \[baidu\]:http://www.baidu.com/img/bdlogo.gif "百度Logo"
 
-<br/>
+该方法可用⬇⬇⬇⬇<br/>
 \[![](http://www.baidu.com/img/bdlogo.gif)](http://baidu.com)
 
 [![](http://www.baidu.com/img/bdlogo.gif)](http://baidu.com)
+
+
+插入代码片段
+我们需要在代码的上一行和下一行用` `` 标记。``` 不是三个单引号，而是数字1左边，
+Tab键上面的键。要实现语法高亮那么只要在 ``` 之后加上你的编程语言即可（忽略大小写）。
+c++语言可以写成c++也可以是cpp。看代码
+
+```java
+public class Test{
+	public static void main(String [] args){
+		System.out.println("Hello World!!!");
+	}
+}
+```
+
+
+
+
+
+
 
 
 
