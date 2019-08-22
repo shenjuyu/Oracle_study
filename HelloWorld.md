@@ -75,14 +75,14 @@ Thank `You` . Please `Call` Me `Coder`
 
 在方括号里可以加入一些 标识性的信息，比如
 
-\![baidu](http://www.baidu.com/img/bdlogo.gif)
+\!\[baidu\]\(http://www.baidu.com/img/bdlogo.gif\)
 ![baidu](http://www.baidu.com/img/bdlogo.gif)
 
 这个方括号里的baidu并不会对图像显示造成任何改动，如果你想达到鼠标悬停显示提示信息，那么可以仿照前面介绍的文本中的方法，就是这样
 
 
+\!\[baidu\]\(http://www.baidu.com/img/bdlogo.gif "百度logo"\)
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
-
 
 
 
