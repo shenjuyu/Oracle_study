@@ -107,7 +107,7 @@ GitHub仓库里的图片
 \[baidu\]:http://www.baidu.com/img/bdlogo.gif "百度Logo"
 
 该方法可用⬇⬇⬇⬇<br/>
-\[![](http://www.baidu.com/img/bdlogo.gif)](http://baidu.com)
+[![]\(http://www.baidu.com/img/bdlogo.gif)](http://baidu.com)
 
 [![](http://www.baidu.com/img/bdlogo.gif)](http://baidu.com)
 
