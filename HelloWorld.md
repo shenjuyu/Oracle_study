@@ -118,11 +118,17 @@ Tab键上面的键。要实现语法高亮那么只要在 \``` 之后加上你�
 c++语言可以写成c++也可以是cpp。看代码
 
 \```java
+
 public class Test{
+
 	public static void main(String [] args){
+	
 		System.out.println("Hello World!!!");
+		
 	}
+	
 }
+
 \```
 
 ```java
