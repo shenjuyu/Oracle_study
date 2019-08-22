@@ -102,12 +102,13 @@ GitHub仓库里的图片
 给图片加上超链接
 
 如果你想使图片带有超链接的功能，即点击一个图片进入一个指定的网页。那么可以这样写
+<br/>该方法已作废
+\[\!\[baidu]]\(http://baidu.com)
+\[baidu\]:http://www.baidu.com/img/bdlogo.gif "百度Logo"
 
-[![baidu]](http://baidu.com)
-[baidu]:(http://www.baidu.com/img/bdlogo.gif "百度Logo")
-
-
-
+<br/>
+\[\!\[]\(http://www.baidu.com/img/bdlogo.gif)]\(http://baidu.com)
+[![](http://www.baidu.com/img/bdlogo.gif)](http://baidu.com)
 
 
 
