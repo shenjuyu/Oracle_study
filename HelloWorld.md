@@ -36,6 +36,10 @@ Thank `You` . Please `Call` Me `Coder`
 给一段文字加入超链接的格式是这样的 \[ 要显示的文字 \]\( 链接的地址 \)。比如
 [我的博客地址](https://github.com/shenjuyu/Oracle_study.git)
 
+你还可以给他加上一个鼠标悬停显示的文本。
+
+[我的博客地址](https://github.com/shenjuyu/Oracle_study.git "悬停显示")
+
 
 
 
