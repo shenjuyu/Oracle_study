@@ -92,9 +92,22 @@ GitHub仓库里的图片
 
     https://github.com/ 你的用户名 / 你的项目名 / raw / 分支名 / 存放图片的文件夹 / 该文件夹下的图片
 
-这样一目了然了吧。比如：
+这样一目了然了吧。 <b>raw 不晓得是个啥意思，如果不知道自己的项目里的图片的URL的话可以到图片的位置，
+复制浏览器地址栏的地址就可以了</b>  比如：   
 
 \!\[]\(https://github.com/shenjunyu/Oracle_study/blob/master/images/2019-08-22_191557.png)
 
 ![](https://github.com/shenjuyu/Oracle_study/blob/master/images/2019-08-22_191557.png)
+
+给图片加上超链接
+
+如果你想使图片带有超链接的功能，即点击一个图片进入一个指定的网页。那么可以这样写
+
+[![baidu]](http://baidu.com)
+[baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo"
+
+
+
+
+
 
