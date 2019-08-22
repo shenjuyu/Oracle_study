@@ -33,7 +33,7 @@ ______________
 Thank `You` . Please `Call` Me `Coder`
 
 文字超链接
-给一段文字加入超链接的格式是这样的 [ 要显示的文字 ]( 链接的地址 )。比如
+给一段文字加入超链接的格式是这样的 \[ 要显示的文字 \]\( 链接的地址 \)。比如
 [我的博客地址](https://github.com/shenjuyu/Oracle_study.git)
 
 
